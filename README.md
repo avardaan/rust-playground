@@ -1,1 +1,1 @@
-Rust playground
+Rust Playground
